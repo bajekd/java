@@ -1,0 +1,5 @@
+eclipse.preferences.version=1
+encoding//src/main/java/AplikacjeBazodanowe/examples/app/Main.java=UTF-8
+encoding//src/main/resources/db/migration/V3__populate_db.sql=UTF-8
+encoding//src/test/java/AplikacjeBazodanowe/examples/app/ContactTest.java=UTF-8
+encoding//src/test/java/AplikacjeBazodanowe/examples/app/ContactsHelperTest.java=UTF-8
